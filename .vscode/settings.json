@@ -1,0 +1,13 @@
+{
+    "Lua.diagnostics.globals": [
+        "tes3",
+        "event",
+        "include",
+        "CraftingFramework",
+        "mwse"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field",
+        "undefined-doc-name"
+    ]
+}
